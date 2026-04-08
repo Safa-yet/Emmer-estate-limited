@@ -12,11 +12,8 @@ A modern and responsive construction company landing page built using Tailwind C
 
 ## 📸 Screenshot
 
-(Add your project screenshot here)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7118d17c-647e-47cc-9899-1860d1c22292" />
 
-```
-![Bricknet Screenshot](./screenshot.png)
-```
 
 ---
 
@@ -75,7 +72,7 @@ npm run dev
 ## 🔗 Relevant Links
 
 * 🌐 Live Website: https://emmer-estate-limited.netlify.app/
-* 💻 GitHub Repo: https://github.com/your-username/your-repo-name
+* 💻 GitHub Repo: https://github.com/Safa-yet/Emmer-estate-limited
 
 ---
 
